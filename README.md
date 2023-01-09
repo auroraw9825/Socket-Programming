@@ -1,15 +1,21 @@
-How to run:
+### How to run:
+
 `make all` to compile code
-```./serverM
+
+```
+./serverM
 ./serverA
 ./serverB
 ./serverC
 ./clientA xxx
-./clientB xxx```
+./clientB xxx
+```
+
+
 Above order matters, servers need to be run before clients.
 
 
-What do my files do:
+### What do my files do:
 
 clientA.cpp/clientB.cpp:
 Both two clients do the same thing. When run ./clientX with differnet operations, they will send a TCP request the main server. And when they get the results back from the main server, they will display in their own terminal window.
