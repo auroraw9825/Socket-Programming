@@ -1,6 +1,3 @@
-Rong Wang, 1619779944
-
-
 How to run:
 make all      to compile code
 ./serverM
