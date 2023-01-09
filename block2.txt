@@ -1,0 +1,7 @@
+2 Rishil Alice 30
+8 Rishil Chinmay 10
+3 Oliver Rachit 94
+10 Alice Luke 100
+18 Racheal John 45
+20 Alice John 1169
+21 John Alice 1000
