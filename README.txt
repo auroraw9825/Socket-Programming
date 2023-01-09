@@ -1,11 +1,12 @@
 How to run:
-make all      to compile code
-./serverM
+`make all` to compile code
+```./serverM
 ./serverA
 ./serverB
 ./serverC
 ./clientA xxx
-./clientB xxx
+./clientB xxx```
+Above order matters, servers need to be run before clients.
 
 
 What do my files do:
